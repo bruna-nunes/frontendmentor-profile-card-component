@@ -151,3 +151,12 @@ span {
   font-size: 12px;
   margin-top: -10px;
 }
+
+.attribution {
+    margin-top: 30px;
+}
+
+.attribution a {
+    color: #285194;
+    text-decoration: none;
+}
